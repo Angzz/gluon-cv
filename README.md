@@ -4,6 +4,10 @@ Paper Link : https://arxiv.org/pdf/1612.03144.pdf
 This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.com/dmlc/gluon-cv) style, we will follow up with the official code and please refer to the official tutorials for more information.
 
 # Usage
+1.Install the mxnet 
+* pip install mxnet-cu92 --pre --upgrade
+2.Clone this code and run the script
+* 
 
 
 # Results
