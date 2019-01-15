@@ -1,7 +1,10 @@
 # Feature Pyramid Network for Object Detection
 Paper Link : https://arxiv.org/pdf/1612.03144.pdf
 
-This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.com/dmlc/gluon-cv) style
+This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.com/dmlc/gluon-cv) style, please refer to the official tutorials for more information.
+
+# Usage
+
 
 # Results
 ### VOC07
@@ -16,7 +19,7 @@ This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.
 ### COCO17
 * **e2e_fastercnn_fpn_resnet50_v1d_2x_coco17** : Stay tuned!
 
-# Acknowledge
+# Acknowledgements
 Below repos give me a lot of inspiration
 * https://github.com/msracver/Deformable-ConvNets
 * https://github.com/guoruoqian/FPN_Pytorch
