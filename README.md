@@ -1,7 +1,7 @@
 # Feature Pyramid Network for Object Detection
 Paper Link : https://arxiv.org/pdf/1612.03144.pdf
 
-This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.com/dmlc/gluon-cv) style, please refer to the official tutorials for more information.
+This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.com/dmlc/gluon-cv) style, we will follow up with the official code and please refer to the official tutorials for more information.
 
 # Usage
 
