@@ -6,6 +6,7 @@ This repo is an unofficial implementation of FPN in a [gluon-cv](https://github.
 # Usage
 1.Install the mxnet 
 * pip install mxnet-cu92 --pre --upgrade
+
 2.Clone this code and run the script
 * 
 
